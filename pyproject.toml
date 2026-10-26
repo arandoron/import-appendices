@@ -1,0 +1,6 @@
+[project]
+name = "import-appendices"
+version = "0.1.0"
+
+[project.scripts]
+import-appendices = "import_appendices.main:app"

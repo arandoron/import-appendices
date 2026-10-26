@@ -1,0 +1,20 @@
+{
+  "appendices": [
+    {
+      "questionId": 81,
+      "documentName": "Anhang I-I-2a Sichere Marktbereitstellung"
+    },
+    {
+      "questionId": 84,
+      "documentName": "Anhang I-I-2d Unberechtigter Zugriff"
+    },
+    {
+      "questionId": 87,
+      "documentName": "Anhang I-I-2g Datenminimierung"
+    },
+    {
+      "questionId": 93,
+      "documentName": "Anhang I-I-2m Sichere Datenlöschung und Portierung"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+pypandoc_binary==1.17 # pandoc python bindings, includes pandoc version 3.9
+typer>=0.26,<1.0 # library for building CLI tools
+nh3>=0.3,<1.0 # HTML sanitization library
+beautifulsoup4>=4.15,<5.0 # library for scraping and modifying HTML
